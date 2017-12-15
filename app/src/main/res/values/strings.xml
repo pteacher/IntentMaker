@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentMaker</string>
+    <string name="eatString">ЕСТЬ</string>
+    <string name="sleepString">СПАТЬ</string>
+    <string name="studyString">БОТАТЬ</string>
+    <string-array name="quotes">
+        <item>Ээххх</item>
+        <item>Ахххх</item>
+        <item>Охххх</item>
+    </string-array>
+</resources>
